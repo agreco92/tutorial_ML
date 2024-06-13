@@ -9,7 +9,7 @@
 
 ## Option 2: Use Google Colab
 
-Simply open this [link](https://colab.research.google.com/github/agreco92/tutorial_ML/blob/main/test0.ipynb) and run the relevant cell to download the dataset (36 KB)
+Simply open this [link](https://colab.research.google.com/github/agreco92/tutorial_ML/blob/main/heart_failure_analysis_full_2024.ipynb) and run the relevant cell to download the dataset (36 KB)
 
 ## Option 3: Run locally using Jupyter
 
